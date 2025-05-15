@@ -11,9 +11,11 @@ COPY . /app
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
-# Expose the port (Fly.io or Railway will use this)
-EXPOSE 8080
+# Set environment variable
 ENV PORT=8080
 
-# Start the Flask app
+# Expose the port that Fly.io will route traffic to
+EXPOSE 8080
+
+# Start the Flask app and bind to 0.0.0.0 (important!)
 CMD ["python", "app.py"]

@@ -1,0 +1,304 @@
+About Us :
+Xalt Analytics started its journey in 2017 with a view that power of data combining machine learning can bring transformational changes in the way world does business. Our aim is to build customized analytics solutions (by harmonizing different types data available in any form) for our clients and provide them with hidden insights from the data that enables them to stay ahead of the competition curve.
+This company was founded by Dr. Nitin Agarwal.
+
+Our Team : 
+Founder And CEO of Xalt Analytics
+Dr. Nitin Agarwal ( Ph.D.) 
+Co-Founder & Chief Data Science Officer
+Dr. Nitin is the Co-Founder and visionary Chief Data Science Officer at Xalt Analytics, bringing an extensive 25+ years of experience in the realms of data science and operations research. With over a decade dedicated to crafting data-driven solutions, Nitin has been instrumental in pioneering innovative approaches to drive substantial business value for our clients.
+Before co-founding Xalt Analytics, Nitin held the prestigious position of Chief Data Science Advisor at a leading Big Data Analytics firm in India. His illustrious career also includes nearly a decade spent at SAS Institute in the USA, where he contributed significantly to the advancement of data analytics solutions. Prior to this, Nitin served as a distinguished faculty member at the esteemed Indian Institute of Management (IIM), Indore, where he imparted his invaluable knowledge to future business leaders.
+In addition to his role at Xalt Analytics, Nitin continues to serve as a trusted Chief Data Science Advisor & Consultant for a prominent US-based Analytics firm. His academic credentials include a PhD from North Carolina State University, an MS in Operations Research from the University of North Carolina at Chapel Hill, and an undergraduate degree from the esteemed Indian Institute of Technology (IIT) Mumbai.
+Nitin's relentless pursuit of excellence and profound expertise in data science make him a driving force behind our commitment to delivering cutting-edge solutions that empower our clients to thrive in today's data-driven landscape.
+
+Ekanshu Ranjan
+Manager, Data Science
+Ekanshu brings over 6 years of comprehensive experience in the dynamic field of Data Science to our team. With a solid foundation in Information Technology, coupled with advanced studies culminating in a Master's degree in Data Science, Ekanshu is adept at leveraging cutting-edge technologies to drive impactful results.
+Before stepping into the realm of Data Science, Ekanshu spent 3 years honing his skills as a Software Test Engineer, where he developed a keen eye for detail and a passion for ensuring the quality and reliability of software systems.
+Throughout his career, Ekanshu has spearheaded numerous critical projects spanning NLP, Machine Learning, and Deep Learning domains. Whether working individually or leading a team, he has consistently delivered innovative solutions that have met and exceeded client expectations.
+Ekanshu's dedication to excellence, coupled with his technical expertise and leadership acumen, makes him an invaluable asset to our Data Science team. His commitment to staying at the forefront of emerging technologies ensures that we continue to deliver state-of-the-art solutions to our clients.
+
+Our Services:
+What Makes Us Your Best Data Monetization Partner
+End To End Analytics
+Deep Learning & Artificial Intelligence
+Expertise in Machine Learning Methods & Data Science Platforms
+Data Visualization
+Experience of Solving Business Problems Across industries
+We are your once stop shop for the analysis of business data and converting it into a data driven application.
+
+Our Clients:
+AVL
+Live Intent
+CybordAi
+MPPKVVCL
+AiCTS
+Nikaza
+Spartans Technologies
+
+Our Services 
+
+Data Analytics
+While we talk about data is the next new oil, most of the data are in unstructured formats distributed in various forms over multiple mediums, these data sets are highly rich on information but the big challenge is to mine and analyze such unstructured data.
+With stellar growth in cloud computing deep learning techniques, it is now possible to derive meaning out of these complex unstructured data using Machine learning tools and derive signals that can make a significant impact in business decisions and can also help in predicting future outcomes for both business & consumers.
+We help our clients in filtering noise from such “unstructured data” of any forms such as ;
+   Text Data : Recognize handwritten contents, scanned data, message data, text files, emails, numerical or textual log  data, web pages, any other business documents including social media data distributed in any form including extracting  information from emoticons
+   Image Data : Identify moods and sentiment of individual or group of an individual by analyzing photographs and  images, gif files etc.
+   Video Data : Analyze real-time or static video data by utilizing advanced algorithms thereby turning video files into actionable intelligence and insights
+   Audio Data : Analyze audio files using Artificial Neural Networks and by classifying audio files such as mobile call data, call centre call records to decipher insights and improve on QA & QC
+   What We Have Done in Data Analytics:
+   1. Manufacturing : For electronic component manufacturing company, we did an elaborative data-driven EDA (Exploratory data analysis). The dataset was about the various defects in the products across each shit across each product. They were utilizing various methods to mitigate the defects. So the goal was to identify the defect distribution across each product across each operator and to answer various questions such as which method is best for reducing the defect. Which product get which type of defect? Which shift has effective working in terms of revenue generation for the company? What methods are efficient in reducing which defect? And many more business-related questions. We created a satisfactory EDA on the data set and answered all the logical questions in terms of visualization that are easy to understand and make decisions. We dashboard the result in a very interactive manner using plotly dash and google charts.
+   2. Finance : For a financial institute We did a complete EDA (Exploratory data analysis) and ML modeling to understand the behavior of their customers. We did various analyses on the dataset to identify the probability of default. In which segment and what level of POD? We did data analysis to identify the customer churn pattern and the areas that can be improved that determine what type of customers are generating high revenue and what type of customers are probable to churn. This helped in reducing the overall NPA for the institute. We have also determined the customer life cycle value (predictive modeling) that helps in identifying which customer can generate what level of revenue for an institute. 
+   3. Heathcare : We have done Exploratory Data Analysis on a Healthcare Dataset consisting of 151 attributes and built interactive dashboards. We build an overall health level prediction system, which will ask health-related questions from the user and then predict the overall health level of the user It will also provide tips to the user to improve their overall health level. For example, if a person's overall health level is poor, Then we will interpret what are the factors responsible for the poor health of the person and advice accordingly to improve the user's overall health level. 
+
+Text Analytics
+Text analytics, also known as text mining or natural language processing, is a field of study that focuses on extracting insights and meaning from unstructured text data. It involves the use of machine learning algorithms, statistical analysis, and natural language processing techniques to identify patterns, trends, and relationships within large volumes of text data.
+One common application of text analytics is sentiment analysis, which involves determining the sentiment (positive, negative, or neutral) of a piece of text. This can be useful in a variety of contexts, such as analyzing customer reviews to gauge satisfaction with a product or service, or analyzing social media posts to understand public sentiment about a particular topic or event. 
+
+ What We Have Done in Text Analysis: 
+ 1. Information Extraction : We have applied various techniques to large PDF documents in order to extract custom entities that are specific to our business needs. The goal of this process is to automate the extraction of business-related information from these documents. To accomplish this, we have compared and used a range of NLP SOTA techniques such as BERT, Spacy, and attention-based models.  
+ 2. Named Entity Recognition : For a large electronic component manufacturing company, we have created a named entity recognition (NER) model to identify and extract the different types of information from the image labels in order to improve the company's efficiency and automate the information extraction. These labels contain text information about the product. We trained the transformer-based NER model to extract these entities and classify them under their specific labels. 
+ 3. Multilabel Text Classification : We created a multilabel classification problem where We classified text with their respective class such that it may belong to multiclass at the same time. Also along with the class, We have to predict the two labels a specific email belongs to. This I did by using state-of-the-art models such as BERT, and Transformers. Here We used Context-based AI language models for the classification task. 
+ 4. Multiclass Classification : For the electronic component quality validation company, We created an NLP solution to correct the classes name of a component based on its description and other attributes. As it was a very complex problem So we have built various levels of NLP solutions as a complete package. We combined the various NLP models by creating granularity in the data set. We were having around 3000+ classes in which we need to put the components. 
+ 5. Automatic Text Extraction : Created a dashboard to represent the real-time sentiment from the text. That uses the trained sentiment model. The tool was able to extract real-time customer reviews and do a timely aspect-based sentiment analysis. It was an interactive dashboard to represent all sens of sentiments from the text. 
+
+Image processing & Analytics
+Image processing and analytics is a fascinating field that involves the use of computer algorithms and techniques to extract meaningful information from images and video data. It is a key component of many modern applications, including facial recognition, object detection, medical imaging, and more. 
+
+ What We Have Done in Image processing & Analytics:
+ 1. Cheque Information Extraction : To extract the information from the scanned cheque images that include Date, account no, cheque no., cheque owner name, etc. And structure them. We first trained the object detection model for the various fields and then trained the digit detection model on top of the previous model. After extracting all the information We structured the information in an excel sheet. 
+ 2. Fire & Smoke Detection : Vision Fire detection in large plants by detecting the smoke and quantifying the smoke density visually using fast-r-CNN and SSD models by technique transfer learning. 
+ 3. Electronic Meter Reading : We created a complete solution for a meter reading into the digital electronic meter right from the tagging of images to model building, We built a faster r-CNN and Yolo models to detect the numbers into the meter and recorded them into the excel sheet to automate the process of meter reading from visual mobile camera images. 
+ 4. Alzheimer's Disease Detection : We created a deep learning neural network that can process the MRI, PET-FDG, Amyloid, and Tau image data from the health care clinic and developed a classification and prediction model to predict Alzheimer's Disease. 
+ 5. Mailbox Identification : Mailbox identification that whether the email is active or inactive using deep learning object detection(YOLO) and template matching to automate the process of checking whether the email is active or not and to automate the process of email sending in bulk. 
+ 6. Face Recognition : The goal of the project was to Generate reports for employee working hours, overtime, Absence trends, etc. For this, we trained the facial recognition model, and then the model was used to track the various activities of the employee and generate the report. 
+ 7. Vehicle Number Plate Recognition : We have created a system to detect the vehicle number plate from the live camera feed and to recognize the digit from the number plate. We extracted the number plate from the camera feed images and structured them into the database to keep the track of the vehicle passing some area. 
+ 8. Person Detection :  We have developed an IOT system in which we are using the real-time CCTV camera.
+   1. Monitor who is entering and leaving a building in real-time.
+   2. We are using the Xtract application for counting the number of people  who move through a particular area, like an office, during a specific timeframe
+   3. Providing the interactive dashboards and reports on real-time data.
+
+AI & ML Model Creation
+Artificial intelligence (AI) and machine learning are related fields that involve the development and use of computer systems that can learn and adapt to new data.
+AI refers to the development of computer systems that can perform tasks that would normally require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. There are many different types of AI, including narrow or weak AI, which is designed to perform specific tasks, and general or strong AI, which has the ability to perform any intellectual task that a human can.
+Machine learning, on the other hand, is a subset of AI that involves the use of algorithms and statistical models to enable a system to learn and improve from experience without being explicitly programmed. Machine learning algorithms can be trained on a dataset and then used to make predictions or decisions based on new data.
+There are many applications for AI and machine learning in a wide range of industries, including healthcare, finance, marketing, and cybersecurity. Some common examples include recommendation systems, fraud detection, and image and speech recognition. 
+
+  What We Have Done in AI & ML Model Creation
+  1. Telecom : Worked on a Churn use case for the largest cellular company in the United States, analyzed their customer survey data, feedback, and social media data to determine the customer experience and customer sentiments, demand identification and forecasting based on customer service records and customer engagement in different services, recommendation and planning of the marketing campaigns, offers and new personalized packs for customers based on customer history. 
+  2. Logistic : Conceptualized and implemented Route optimization algorithms for Transportation and Logistics companies, for identifying the best route and used a variety of customer data feeds and a complex optimization algorithm to compute and recommend the best route for fuel savings. 
+  3. Healthcare : Developed and optimized novel deep learning-based approaches to automate many aspects of medicine, including; disease diagnosis, and preventative medicine.
+  Created a deep learning neural network that can process the MRI, PET-FDG, Amyloid, and Tau image data from the ADNI database and developed a classification and prediction model to predict Alzheimer's Disease. 
+  4. Automotive : Designed and deployed an automated application for a leading automotive testing company through which the client can see the machine failure prediction before time. The application also visualizes the predicted parameter values over time with graphs, and data tables, and also the possible causes and remedies regarding the errors.
+  Worked on Paint shop defects analysis for the World’s largest car manufacturer.
+  5. BFSI : Worked with asset management firms, investment management organizations, and developed solutions for fraud detection, fraud prediction, and credit risk analysis, stock prediction, investment planning, investment portfolio analytics.
+  Developed an accurate Cryptocurrency prediction model that can predict the hike and drop/crash of various coins, based on historical data, social media data, and market research data. 
+  6. Recommendation System : For a leading publishing house in the UK, We created a recommendation system for their online subscription service. The goal here was that each user should see books from their favorite topics upon login into the service. There were about 10 thousand books and roughly 2000 subscribers. The additional challenge was that since these were mainly subscribers of technical books we had to make sure that the latest books were recommended always.
+  The second project was for a cellular company and here We had to recommend the top 5 offers to over a million consumers. The additional challenge was that the recommendation should lead to an increase in revenue.
+  We developed a recommendation system for a job portal where they wanted us to create a recommendation system that gives them a better performance than the equivalent google platform. We created the recommendation model and then worked with their team to implement the same on AWS.
+  7. Financial : For a leading financial institute, We created complete EDA and ML modeling in order to predict customer churn.
+  Also determined the customer life cycle value based on the institute's customer dataset.
+  Did RFM (Recency, Frequency, Monetary) analysis for customer segmentation of the customers in order to target the customers of various segments with various strategies that improved overall customer satisfaction and can reduce customer churn. 
+
+Big Data Analytics
+Big data analytics is the process of collecting, storing, and analyzing large and complex datasets to uncover insights and trends from varied, high-volume, high-velocity datasets. These datasets are characterized by the 3Vs: volume, variety, and velocity. It is often too large in volume to be stored and processed on a single computer or server and may come in a variety of different formats and types such as from structured (database tables, Excel sheets) to semi-structured (XML files, webpages) to unstructured (images, audio files). It is also generated at a high velocity, meaning that it is collected and generated at a rapid rate, making it difficult to process in real time using traditional systems. 
+Big data analytics involves using advanced technologies and algorithms to extract valuable information from large volumes of data, and to use that information to make better-informed business decisions. One of the key tools used in big data analytics is Hadoop, a framework that allows for the distributed processing of large datasets across clusters of computers. 
+
+  What We had Done in Big Data Analytics :
+  1. ETL : We have worked with one of the world’s largest people-based marketing company that is located in various countries such as Denmark, Germany, the UK, and the US along with offices present in different countries. Analyzed their customer's data and perform operations on it to make the data usable and a trusted resource to use downstream to solve business problems.
+  2. EDA : Explored the hidden insights from the data. And performed data cleaning, data exploration, and data munging based on different scenarios. And Created reports that show important business metrics according to the customer's data. 
+
+LLM
+Welcome to the forefront of data science with our latest addition to the array of cutting-edge services – Large Language Modeling (LLM). In an era defined by the ever-expanding landscape of information, LLM stands at the forefront, promising a revolutionary leap in the way we interact with and extract insights from vast troves of textual data. Beyond the traditional realms of data analytics, LLM delves into the intricate nuances of language, enabling our clients to unlock the full potential of their textual data. Large Language Models, such as GPT-3.5, have emerged as game-changers, offering unparalleled capabilities in understanding and generating human-like text.
+Large Language Modeling is not just about processing words; it's about understanding context, sentiment, and intent at an unprecedented scale. Imagine the power to unravel intricate patterns in massive datasets, comprehend the intricacies of user-generated content, and make data-driven decisions with linguistic precision. Whether you're deciphering customer sentiments, automating document summarization, or creating intelligent chatbots, our LLM services empower you to navigate the expansive world of language data effortlessly. As we usher in this new era of linguistic intelligence, our commitment to innovation ensures that your organization stays ahead, harnessing the true power of language to drive data-driven success.
+
+  What we had done in LLM:
+  1. Entity Extraction : Embark on a journey of streamlined data processing with our successful address extraction AI model. We've developed and implemented an advanced solution for extracting addresses from text documents. Our model not only meets but exceeds expectations, providing a reliable alternative to manual methods. Having successfully catered to major organizations, our AI model showcases its prowess in real-world applications, setting a new standard for efficient and precise address extraction.
+  2. Healthcare Chatbot : Our overarching goal was to deliver a healthcare-focused chatbot for US based Health Clinic that leverages the wealth of insights from the US clinic dataset. We envision a conversational AI that doesn't just answer questions but engages users in a way that is informed, empathetic, and genuinely helpful. 
+  3. Enhanced the OpenAI GPT-3 model by fine-tuning it with a healthcare dataset sourced from US clinics, which includes user queries, symptoms, and treatment plans. In a significant achievement, we've seamlessly integrated our fine-tuned model into a robust framework, resulting in a functional Chatbot. This intelligent assistant is now adept at generating personalized treatment plans based on user-provided symptoms, marking a milestone in enhancing user interaction and assistance. 
+  4. LegalQuery Assistant : We have spearheaded the creation of a cutting-edge Legal Language Model (LLM) application using RAG architecture tailored for legal professionals, meticulously architecting a comprehensive solution encompassing the following key components:
+     1. Data Ingestion Pipeline for LegalAI QA System: We have meticulously crafted a robust pipeline for seamless data ingestion, ensuring a smooth flow of information to our advanced LegalAI Question Answering (QA) system.
+     2. Document Store (Weaviate): Our ingenious design includes the implementation of a sophisticated document store using Weaviate, providing a structured repository for efficiently managing ingested legal documents.
+     3. QA System (RAG): We've established a state-of-the-art QA system utilizing the Retrieve-and-Generate (RAG) approach. Through extensive testing across various embedding models and chunk sizes, we've identified and integrated the optimal model for unparalleled relevance evaluation.
+     4. Follow-up QA with User State Management: Our innovative approach includes the implementation of a follow-up QA system that intelligently maintains user chat history, ensuring a contextual and coherent interaction by considering the user's previous inputs.
+     5. Continuous Quality Data Generation Pipeline: In our beta testing phase, we've introduced a dynamic pipeline for continuous quality data generation. This iterative process is pivotal for refining the RAG pipeline and enhancing the overall efficacy of the QA system.
+   Key Features:
+    1. Improved RAG Pipeline for Answer Synthesis: We've revolutionized the RAG pipeline, optimizing the retrieval of relevant documents from the vector store. Rigorous testing across diverse embedding models and chunk sizes has enabled us to pinpoint and integrate the most effective model.
+    2. Enhanced Reranker Pipeline: To ensure the final answer synthesis involves only relevant documents, we've implemented an advanced reranker pipeline. This strategic addition significantly reduces false positives and mitigates the risk of answer hallucination.
+    3. User-Centric Answer Display Enhancements:
+      • Highlighted Answer Origin: Each answer is enriched with highlighted chunks indicating the source of information, offering transparency in the answer generation process.
+      • Contextual Chunk Highlighting: We've implemented a feature that highlights the specific text chunks crucial to answer synthesis, providing users with a focused view of the segments contributing to the response.
+    4. Document QA feature: Allowing user to upload document in real time and build functionality to interact with uploaded document along with user session management where user can re iterate over those documents in any time future until 30 days with option how many days he wants to keep that state alive, so he can start from where he was left.
+    5. Time line creation: Identifying the important events in the uploaded documents and created it as a timeline so that user can be aware about the previous events in a particular case.
+
+Dashboard Creation
+An analytics dashboard is a tool that displays important information and metrics in a visually appealing and easy-to-understand format. Dashboards are commonly used to monitor and track the performance of a business, website, or specific project. They can be customized to show data that is relevant to the user and are often interactive, allowing the user to drill down into the data for more detailed analysis.
+Overall, creating an analytics dashboard requires a combination of data analysis and design skills. It is a valuable tool for tracking and monitoring the key performance indicators (KPIs) and other important data points that help a business or organization track and monitor its performance. 
+
+  What we had done in Dashboard Creation:
+  1. Sentiment Analysis Tool : We have created a sentiment analysis tool that shows the distribution of sentiment among male and female groups for a specific product, as well as the overall sentiment for the product. The tool can also extract aspects of the text related to the product such as its quality, services, etc. so that we can infer what feature of the product the people are talking about and in what sense like positive, negative, or neutral, it also classifies the sentiment expressed in the text into categories like fear, joy, and happiness. This tool allows you to understand your customers' opinions and emotions about your product and make informed decisions based on that information. 
+  2. Jal Jeevan Mission : The Jal Jeevan Mission dashboard is a tool for tracking the progress and performance of the Jal Jeevan Mission, which is a flagship program of the Government of India that aims to provide potable water to every rural household in the country.
+
+The dashboard typically includes a variety of visualizations and charts that help to illustrate key indicators of the mission's progress, such as the number of households with access to potable water, the percentage of households with functional taps, and the amount of water being supplied to each household. 
+Frontend Development
+Frontend development refers to the process of building the user interface of a website or application. It involves creating the visual design and layout of the website or application, as well as implementing the functionality and interactivity of the user interface using HTML, CSS, and JavaScript.
+Frontend developers work closely with designers to create the look and feel of a website or application, and with backend developers to ensure that the user interface is properly connected to the underlying server-side logic and data.
+Frontend development has evolved significantly in recent years with the introduction of new technologies and frameworks. Today, frontend developers often use responsive design techniques to ensure that websites and applications are optimized for different devices and screen sizes, and may use tools such as React, Angular, or Vue to build interactive user interfaces.
+Overall, frontend development is a crucial aspect of the web development process, and is responsible for creating the user-facing elements of a website or application that users interact with on a daily basis. 
+
+Application Development
+End-to-end analytics application development involves the process of creating an application that allows users to gather, analyze, and visualize data in order to make informed decisions. This process typically involves several steps, including gathering requirements, designing the application, implementing and testing the application, and deploying and maintaining it.
+Analytics applications can be used in a variety of settings, including businesses, government organizations, and non-profits, to help make data-driven decisions and improve efficiency and effectiveness. Developing an analytics application requires a combination of technical skills, such as coding and data analysis, and design skills, such as user experience design.  
+
+Mobile Data Science
+Mobile data science refers to the field of performing data science tasks, such as data analysis, machine learning model inference, and other heavy computational operations, directly on mobile devices like smartphones or tablets. This approach enables the execution of complex data science algorithms and models locally on the device, without the need for constant internet connectivity or reliance on remote servers.
+In the context of performing tasks like object detection, image classification, or natural language processing on mobile devices, mobile data science involves deploying optimized machine learning models that are specifically designed to run efficiently on resource-constrained mobile hardware. This may involve techniques such as model compression, quantization, and architecture optimization to reduce the computational and memory requirements of the models while maintaining acceptable performance.
+Our services include leveraging mobile data science techniques to perform complex data analysis and machine learning tasks directly on your users' devices. By optimizing machine learning models for mobile hardware, we enable real-time processing, enhanced privacy, and reduced reliance on external servers. From object detection to natural language processing, we bring the power of data science to the palm of your users' hands.
+   What we had done in Mobile Data Science:
+   1. XAMR System : The XAMR meter reading system presents a flexible and reliable solution for automating the capture of both analog and digital meter readings. Through our mobile application, users can streamline their image capture process, eradicating manual data entry errors.
+   Our deep learning models have undergone rigorous training with real-world data to achieve exceptional performance, seamlessly integrated into mobile platforms. Our system operates seamlessly in both online and offline modes, ensuring uninterrupted access and functionality regardless of network connectivity. It effortlessly integrates with existing applications, providing a user-friendly interface. This system is equipped to detect non-meter images and guarantees the quality of meter reading images effortlessly.
+   Our AI-powered tool swiftly verifies image clarity and readability, ensuring precise data capture and eliminating errors in the field. Additionally, our machine learning algorithms detect anomalies, further reducing the likelihood of field errors. Furthermore, it includes fraud detection functionality.
+   2. XAMR APP : The XAMR app is the completely offline mobile app which uses advanced AI to swiftly and accurately collect electricity meter readings, simplifying the process.
+   Effortlessly ensure the quality of your meter reading images with our AI-powered tool. It instantly checks image clarity, eliminating field errors. One can rely on it even in areas with limited connectivity, ensuring uninterrupted service.
+   Our technology also detects non-meter images and prompts the reader to retake the reading, ensuring accurate data capture and preventing errors. Efficient meter reading with reduced errors ensures accurate data capture, improving data quality, streamlining manual entry processes and ultimately optimizing resource utilization.
+
+
+Reinforcement Learning
+Welcome to the frontier of artificial intelligence with our latest cutting-edge services – Reinforcement Learning. In an age defined by the relentless march of technology, RL stands poised to revolutionize the way we approach complex decision-making processes and autonomous systems. Beyond traditional machine learning paradigms, RL delves into the realm of dynamic decision-making, offering unparalleled capabilities in learning and adapting to diverse environments. 
+RL is not merely about processing data; it's about learning from experience, optimizing actions, and maximizing long-term rewards. Picture the ability to train agents to navigate complex environments, master complex tasks, and even surpass human performance in specific domains. Whether you're optimizing resource allocation in supply chain management, developing Agents for financial Trading, or enhancing recommendation systems, our RL services empower you to harness the full potential of autonomous decision-making. 
+With RL, you can unlock new possibilities in automation, optimization, and adaptive control. Imagine the efficiency gains from autonomous systems that continually learn and adapt to changing circumstances, leading to improved performance and cost savings. As we embark on this journey into the future of artificial intelligence, our commitment to innovation ensures that your organization remains at the forefront, leveraging the transformative power of RL to drive unprecedented success in an increasingly complex world. 
+
+  What we had done in Reinforcement Learning :
+  AI Trading System : At XALT, we've developed a pioneering Deep Reinforcement Learning agent tailored for Stock Trading. This state-of-the-art prototype leverages advanced RL algorithms to navigate complex market conditions, utilizing single and 10-level depth order book data within an OpenAI Gym environment. By incorporating various technical indicators and implementing the State of the art DRL algorithms, our agent makes informed decisions, achieving desired trading behavior. Thorough backtesting validates its performance and efficacy, marking a significant advancement in algorithmic trading strategies. 
+
+
+Our Products : 
+ 1. Document Analysis
+Document analysis system predicts upcoming trends and technology. For Example, we used patent data and displayed the results using graphical representations in an application. Document analysis system makes use of natural language processing (NLP) techniques to analyze and extract relevant information from patent data, such as technology keywords and inventors. 
+Machine learning algorithms are applied to identify patterns and trends in the data, which is used to make predictions about future technological developments.  
+Document analysis system used graphs to organize the patent data and the results of the analysis. This allows for efficient querying and visualization of the data in the application, making it easy for users to explore and understand the results.  
+Document analysis system is built using Python and Angular and provides an interactive interface for users to view the predictions and trends. Document analysis system also features interactive graphs and charts to help users understand the results and trends.  
+Document analysis system will be useful for businesses, investors, and researchers to stay ahead of the technological curve and make informed decisions about investment, research, and development. 
+ 2. Xtract : Xtract is a platform to identify objects, anomalies from images leveraging deep learning. It generates automated  reports of defects, anomalies without requiring any manual intervention. ​
+ It provides intuitive UI which can be used to custom train the deep learning model according to your needs without requiring any deep learning experts.
+Xtract is an AI-powered visual inspection platform designed to automatically detect and classify objects, anomalies, and defects in images using advanced deep learning techniques. The platform eliminates the need for manual inspection by generating accurate, real-time analytical reports without human intervention.
+Key features of Xtract include:
+Automated Defect Detection: Xtract leverages state-of-the-art deep learning models to identify a wide range of visual anomalies—such as cracks, dents, missing components, or irregularities—across various types of imagery (e.g., industrial, medical, manufacturing, or satellite).
+Custom Model Training via No-Code Interface: The platform offers an intuitive, user-friendly interface that allows users to upload their own datasets and fine-tune models for specific use cases, all without requiring any prior expertise in machine learning or coding.
+Real-Time Reporting & Insights: Once trained, models can process new images and generate automated inspection reports, highlighting the type, location, and severity of any anomalies detected. These reports can be exported or integrated into downstream systems for immediate action.
+Scalable & Domain-Agnostic: Xtract is built to support diverse industries including manufacturing, agriculture, healthcare, logistics, and more. Its architecture is scalable, allowing it to handle everything from single image analysis to large-scale batch processing.
+Whether you're looking to improve quality assurance on a factory floor or detect anomalies in satellite imagery, Xtract empowers organizations to deploy AI-driven visual intelligence quickly and cost-effectively.
+
+ 3. XAMR APP : The XAMR app is the completely offline mobile app which uses advanced AI to swiftly and accurately collect electricity meter readings, simplifying the process. Effortlessly ensure the quality of your meter reading images with our AI-powered tool. It instantly checks image clarity, eliminating field errors. One can rely on it even in areas with limited connectivity, ensuring uninterrupted service. Our technology also detects non-meter images and prompts the reader to retake the reading, ensuring accurate data capture and preventing errors. Efficient meter reading with reduced errors ensures accurate data capture, improving data quality, streamlining manual entry processes and ultimately optimizing resource utilization.
+ 4. XAMR System : The XAMR meter reading system presents a flexible and reliable solution for automating the capture of both analog and digital meter readings. Through our mobile application, users can streamline their image capture process, eradicating manual data entry errors.
+ Our deep learning models have undergone rigorous training with real-world data to achieve exceptional performance, seamlessly integrated into mobile platforms. Our system operates seamlessly in both online and offline modes, ensuring uninterrupted access and functionality regardless of network connectivity. It effortlessly integrates with existing applications, providing a user-friendly interface. This system is equipped to detect non-meter images and guarantees the quality of meter reading images effortlessly.
+ Our AI-powered tool swiftly verifies image clarity and readability, ensuring precise data capture and eliminating errors in the field. Additionally, our machine learning algorithms detect anomalies, further reducing the likelihood of field errors. Furthermore, it includes fraud detection functionality.
+
+
+Privacy Policy
+At Xalt Analytics, accessible from www.xaltanalytics.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Xalt Analytics and how we use it.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Xalt Analytics. This policy is not applicable to any information collected offline or via channels other than this website.
+Consent
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+Information we collect
+The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
+If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
+When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
+How we use your information
+We use the information we collect in various ways, including to:
+Provide, operate, and maintain our website
+Improve, personalize, and expand our website
+Understand and analyze how you use our website
+Develop new products, services, features, and functionality
+Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
+Send you emails
+Find and prevent fraud
+Log Files
+Xalt Analytics follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+Advertising Partners Privacy Policies
+You may consult this list to find the Privacy Policy for each of the advertising partners of Xalt Analytics.
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Xalt Analytics, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+Note that Xalt Analytics has no access to or control over these cookies that are used by third-party advertisers.
+Third Party Privacy Policies
+Xalt Analytics's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+Children's Information 
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+Xalt Analytics does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+
+
+Why Choose us?
+People : A well experienced team of Data Scientists and Big Data Engineers
+Technical Know How : 20+ years of combined experience in analyzing structured and unstructured data by applying concepts from Text analytics, Natural Language Processing and Deep Machine Learning.
+Project Experience : Varied Industry experience in handling complex unstructured distributed data and converting them into actionable insights for changing business needs.
+
+Carrer in Xalt Analytics
+At Xalt Analytics our people are our biggest asset. Our work culture and policies are focused on nurturing talent by providing them with opportunities to grow professionally and personally. We welcome young intellectual minds to work with us. Please forward your resume to careers@xaltanalytics.com
+
+Contact Us :
+Email
+sales@xaltanalytics.com
+
+Address : XALT Analytics
+7/5, shree ram nagar, 101-A, 1st Floor mahakosh house, South Tukoganj, Indore, Madhya Pradesh 452001
+
+For Visiting that location (Get Direction) : http://google.com/maps/dir//XALT+Analytics+7%2F5,+shree+ram+nagar+101-A,+1st+Floor+mahakosh+house+South+Tukoganj,+Indore,+Madhya+Pradesh+452001/@22.7184386,75.8770039,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3962fd77ce593edf:0x6c0b25caf131d378!2m2!1d75.8770039!2d22.7184386?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D
+
+Phone Number / Contact Number : 7225020263
+
+Any Query related to Job / Internship / Training refer to our Linkedin Page : https://in.linkedin.com/company/xaltanalytics
+LinkedIn Profile for any career opportunities visit (Job / Internship / Training Updates): https://in.linkedin.com/company/xaltanalytics
+
+Other Social Media Platforms / Social Media Links / Social media profiles :
+  Snapchat : https://www.snapchat.com/add/xaltanalytics
+  Facebook : https://www.facebook.com/share/v/19fGfdqcpq/
+  Instagram : https://www.instagram.com/p/DIDmLjtt7cz/
+
+How does your company differentiate itself in the field of AI-driven analytics compared to global competitors? 
+Xalt Analytics differentiates itself in the AI-driven analytics space through a blend of deep domain expertise, hands-on execution, and real-world impact. Founded by Dr. Nitin Agarwal, a PhD with 25+ years of global experience across institutions like SAS (USA) and IIM Indore, our leadership brings elite academic and practical pedigree.
+Unlike many firms that focus only on theoretical models, we emphasize end-to-end analytics, from data engineering to model deployment—tailored to each client. Our proprietary solutions like the XAMR mobile system for smart meter reading, healthcare chatbots, and AI-powered anomaly detection platforms demonstrate applied AI at scale.
+Moreover, we’ve worked across verticals—manufacturing, finance, healthcare, telecom, automotive, and more—solving hard business problems using customized NLP, computer vision, and deep learning systems. What truly sets us apart is our ability to handle unstructured, multi-modal data (text, image, audio, video) and turn it into real-time, business-critical intelligence—making us not just data scientists, but transformation partners.
+
+What’s the long-term vision for your AI products in emerging markets?
+Xalt Analytics envisions becoming a catalyst for digital transformation in emerging markets by democratizing access to cutting-edge AI technologies. Our long-term vision is to bridge the gap between AI innovation and practical implementation, especially for industries and regions where digital maturity is still evolving.
+We aim to scale solutions like XAMR, our mobile-based AI-powered meter reading system, across utilities in Tier-2 and Tier-3 cities, helping local governments automate operations and improve efficiency. In healthcare, we plan to expand our chatbot and diagnostics automation tools to rural clinics and telemedicine platforms, reducing dependency on physical infrastructure.
+Our approach focuses on creating lightweight, low-latency AI solutions that run efficiently on mobile and edge devices—making them ideal for bandwidth-constrained environments. We combine scalable machine learning with local language NLP to increase adoption and usability. Ultimately, our goal is to make AI a utility, not a luxury, for businesses and institutions in emerging economies.
+
+What kind of machine learning models have you deployed for real-time analytics?
+Based on the provided text, here are the machine learning models and applications mentioned in the context of real-time or near real-time analytics:
+Specific Models Mentioned:
+Fast R-CNN and SSD models: Used for vision-based fire and smoke detection, implying real-time monitoring.   
+Faster R-CNN and YOLO models: Used to detect numbers in electronic meter readings from mobile camera images. This is part of the XAMR system/app, which is designed for swift, potentially offline (implying real-time on-device) processing.   
+YOLO (along with template matching): Used for mailbox identification to check if an email is active or inactive.   
+Applications Implying Real-Time Analytics (Models sometimes specified broadly):
+Automatic Text Extraction/Sentiment Analysis: A dashboard was created to represent real-time sentiment from text using a trained sentiment model. This tool performed timely aspect-based sentiment analysis on real-time customer reviews.   
+Vehicle Number Plate Recognition: A system was created to detect number plates from a live camera feed.   
+Person Detection: An IoT system using real-time CCTV cameras monitors people entering/leaving buildings and counts people moving through areas using the Xtract application. Xtract itself is a platform leveraging deep learning.   
+AI Trading System: A Deep Reinforcement Learning agent was developed for stock trading, which operates based on market data (implying real-time or near real-time decision-making).   
+LegalQuery Assistant: This application uses RAG (Retrieve-and-Generate) architecture for a QA system, including follow-up questions with user state management and real-time document QA, implying real-time interaction and processing.   
+Mobile Data Science: The capability to perform ML tasks like object detection, image classification, and NLP directly on mobile devices enables real-time processing without constant server reliance. The XAMR app is a prime example of this on-device processing.
+
+How does your XAMR system handle analog vs digital meter readings?
+The XAMR system is described as a solution for automating the capture of both analog and digital meter readings.   
+It utilizes deep learning models integrated into a mobile application to streamline the image capture process for these readings.   
+While the text mentions specific models like Faster R-CNN and YOLO being used for reading digital electronic meters, it does not specify the distinct techniques or models employed within the XAMR system to read or differentiate analog meter readings (e.g., dials).   
+
+I read you worked with Live Intent. What problem did you solve for them?
+For this client, Xalt Analytics analyzed customer data, performed data operations (like cleaning and munging) to make it usable, explored hidden insights, and created reports showing important business metrics based on the customer data
+
+You mentioned AI use in healthcare—can you expand on how you handle patient data security?
+Our company values privacy, and you can find our general Privacy Policy outlining our practices primarily for website interactions. However, the information available here doesn't detail the specific security measures, protocols, or compliance frameworks like HIPAA used to safeguard sensitive patient data within those healthcare projects.
+
+White Paper or research Paper : Application of Machine Learning Algorithm in Managing Deviant Consumer Behaviors and Enhancing Public Service.
+Read it from here ->  https://www.igi-global.com/pdf.aspx?tid=292064&ptid=290363&ctid=4&oa=true&isxn=9781668445792
+
+Research Paper : https://www.igi-global.com/pdf.aspx?tid=292064&ptid=290363&ctid=4&oa=true&isxn=9781668445792 
+
+Email : sales@xaltanalytics.com
+
+Submit query to company : Fill form and submit via this link https://www.xaltanalytics.com/contact-us

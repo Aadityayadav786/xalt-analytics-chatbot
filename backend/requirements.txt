@@ -1,0 +1,8 @@
+langchain
+langchain-cohere
+cohere
+faiss-cpu
+python-dotenv
+Flask
+flask-cors
+
